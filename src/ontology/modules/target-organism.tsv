@@ -1,0 +1,244 @@
+?s	?nap_id	?class	?napralert_code	?name	?eq	?comment	?partof	?subclasses
+<https://www.napralert.org/data/animal/147>	147	<http://www.w3.org/2002/07/owl#Class>	CW	CROCODYLUS NILOTICUS				NCBITaxon_8501
+<https://www.napralert.org/data/animal/27>	27	<http://www.w3.org/2002/07/owl#Class>	PU	ORYZIAS LATIPES	<https://www.napralert.org/data/animal/78>			NCBITaxon_8090
+<https://www.napralert.org/data/animal/152>	152	<http://www.w3.org/2002/07/owl#Class>	DD	OPOSSUM				NCBITaxon_9265
+<https://www.napralert.org/data/animal/254>	254	<http://www.w3.org/2002/07/owl#Class>	MR	MONKEY(RHESUS)				NCBITaxon_9544
+<https://www.napralert.org/data/animal/21>	21	<http://www.w3.org/2002/07/owl#Class>	PM	MOUSE(PREGNANT)				UBERON_0009097|NCBITaxon_10088
+<https://www.napralert.org/data/animal/16>	16	<http://www.w3.org/2002/07/owl#Class>	PG	PIGEON				NCBITaxon_8930
+<https://www.napralert.org/data/animal/138>	138	<http://www.w3.org/2002/07/owl#Class>	CM	CAPON				PATO_0002367|NCBITaxon_9031
+<https://www.napralert.org/data/animal/178>	178	<http://www.w3.org/2002/07/owl#Class>	GC	GUINEA PIG(CASTRATE)				NCBITaxon_10141|PATO_0002367
+<https://www.napralert.org/data/animal/200>	200	<http://www.w3.org/2002/07/owl#Class>	HO	HORSE				NCBITaxon_1114792
+<https://www.napralert.org/data/animal/189>	189	<http://www.w3.org/2002/07/owl#Class>	GT	GOAT				NCBITaxon_9923
+<https://www.napralert.org/data/animal/153>	153	<http://www.w3.org/2002/07/owl#Class>	DE	DEER				NCBITaxon_9850
+<https://www.napralert.org/data/animal/228>	228	<http://www.w3.org/2002/07/owl#Class>	LX	CHIRONOMUS THUMMI				NCBITaxon_315576
+<https://www.napralert.org/data/animal/101>	101	<http://www.w3.org/2002/07/owl#Class>	AS	ARTEMIA SALINA				NCBITaxon_85549
+<https://www.napralert.org/data/animal/95>	95	<http://www.w3.org/2002/07/owl#Class>	AI	SAGUINUS MIDAS NIGER				NCBITaxon_30586
+<https://www.napralert.org/data/animal/170>	170	<http://www.w3.org/2002/07/owl#Class>	FE	FERRET				NCBITaxon_9669
+<https://www.napralert.org/data/animal/265>	265	<http://www.w3.org/2002/07/owl#Class>	NN	NEWT OVA				UBERON_0000992
+<https://www.napralert.org/data/animal/249>	249	<http://www.w3.org/2002/07/owl#Class>	MM	MICROTUS MONTANUS				NCBITaxon_88450
+<https://www.napralert.org/data/animal/10>	10	<http://www.w3.org/2002/07/owl#Class>	PA	PIG(PREGNANT)				UBERON_0009097|NCBITaxon_9822
+<https://www.napralert.org/data/animal/140>	140	<http://www.w3.org/2002/07/owl#Class>	CO	COW				NCBITaxon_9913|PATO_0000383
+<https://www.napralert.org/data/animal/127>	127	<http://www.w3.org/2002/07/owl#Class>	CA	CALF				NCBITaxon_9913|PATO_0000309
+<https://www.napralert.org/data/animal/162>	162	<http://www.w3.org/2002/07/owl#Class>	E7	ELEPHANT				NCBITaxon_9780
+<https://www.napralert.org/data/animal/109>	109	<http://www.w3.org/2002/07/owl#Class>	BE	BEAR				NCBITaxon_9632
+<https://www.napralert.org/data/animal/155>	155	<http://www.w3.org/2002/07/owl#Class>	DG	DEGU				NCBITaxon_10158
+<https://www.napralert.org/data/animal/212>	212	<http://www.w3.org/2002/07/owl#Class>	IV	ANT(LEAFCUTTER)				NCBITaxon_12956|NCBITaxon_64782
+<https://www.napralert.org/data/animal/225>	225	<http://www.w3.org/2002/07/owl#Class>	LP	LAMPREY				NCBITaxon_7745
+<https://www.napralert.org/data/animal/26>	26	<http://www.w3.org/2002/07/owl#Class>	PT	POTOROUS TRIDACTYLUS				NCBITaxon_9310
+<https://www.napralert.org/data/animal/196>	196	<http://www.w3.org/2002/07/owl#Class>	HG	BIOMPHALARIA GLABRATA				NCBITaxon_6526
+<https://www.napralert.org/data/animal/239>	239	<http://www.w3.org/2002/07/owl#Class>	MB	MONKEY(AFRICAN GREEN)	<https://www.napralert.org/data/animal/241>			NCBITaxon_9534
+<https://www.napralert.org/data/animal/64>	64	<http://www.w3.org/2002/07/owl#Class>	TD	THERMOBIA DOMES		Rename to Thermobia domestica (J.B.)		NCBITaxon_89055
+<https://www.napralert.org/data/animal/232>	232	<http://www.w3.org/2002/07/owl#Class>	M4	MONGOOSE				NCBITaxon_9697
+<https://www.napralert.org/data/animal/176>	176	<http://www.w3.org/2002/07/owl#Class>	GA	GAMBUSIA AFFINIS				NCBITaxon_33528
+<https://www.napralert.org/data/animal/255>	255	<http://www.w3.org/2002/07/owl#Class>	MS	MOUSE(PSEUDOPREGNANT)				NCBITaxon_10088|OMIT_0012496
+<https://www.napralert.org/data/animal/69>	69	<http://www.w3.org/2002/07/owl#Class>	TV	URECHIS SPECIES				NCBITaxon_6430
+<https://www.napralert.org/data/animal/7>	7	<http://www.w3.org/2002/07/owl#Class>	OR	RAT(OVARIECTOMIZED)				NCBITaxon_10114|PATO_0002380
+<https://www.napralert.org/data/animal/75>	75	<http://www.w3.org/2002/07/owl#Class>	ZA	BRACHYDANIO RERIO				NCBITaxon_7955
+<https://www.napralert.org/data/animal/213>	213	<http://www.w3.org/2002/07/owl#Class>	JQ	QUAIL(JAPANESE)				NCBITaxon_93934
+<https://www.napralert.org/data/animal/173>	173	<http://www.w3.org/2002/07/owl#Class>	FL	FLOUNDER				NCBITaxon_30942
+<https://www.napralert.org/data/animal/53>	53	<http://www.w3.org/2002/07/owl#Class>	SL	SQUIRREL				NCBITaxon_55153
+<https://www.napralert.org/data/animal/165>	165	<http://www.w3.org/2002/07/owl#Class>	EG	EGG(GOOSE)				UBERON_0007379
+<https://www.napralert.org/data/animal/145>	145	<http://www.w3.org/2002/07/owl#Class>	CT	CANARY				NCBITaxon_9134
+<https://www.napralert.org/data/animal/114>	114	<http://www.w3.org/2002/07/owl#Class>	BR	BOAR				NCBITaxon_9823
+<https://www.napralert.org/data/animal/137>	137	<http://www.w3.org/2002/07/owl#Class>	CL	COCK				PATO_0000384|NCBITaxon_9031
+<https://www.napralert.org/data/animal/72>	72	<http://www.w3.org/2002/07/owl#Class>	WB	BUFFALO(WATER)				NCBITaxon_9918
+<https://www.napralert.org/data/animal/182>	182	<http://www.w3.org/2002/07/owl#Class>	GG	GUINEA PIG(IMMATURE)				NCBITaxon_10141|PATO_0000309
+<https://www.napralert.org/data/animal/106>	106	<http://www.w3.org/2002/07/owl#Class>	BB	BABOON				NCBITaxon_9554
+<https://www.napralert.org/data/animal/49>	49	<http://www.w3.org/2002/07/owl#Class>	SE	SIGMODEN HISPIDUS		Rename to Sigmodon hispidus (J.B.)		NCBITaxon_42415
+<https://www.napralert.org/data/animal/31>	31	<http://www.w3.org/2002/07/owl#Class>	RB	RABBIT(PREGNANT)				UBERON_0009097|NCBITaxon_9979
+<https://www.napralert.org/data/animal/168>	168	<http://www.w3.org/2002/07/owl#Class>	ET	BLOWFLY				NCBITaxon_7371
+<https://www.napralert.org/data/animal/12>	12	<http://www.w3.org/2002/07/owl#Class>	PC	PLAICE				NCBITaxon_8256
+<https://www.napralert.org/data/animal/262>	262	<http://www.w3.org/2002/07/owl#Class>	N2	XENOPUS LAEVIS EGGS(FERTILIZED)				UBERON_3010636
+<https://www.napralert.org/data/animal/163>	163	<http://www.w3.org/2002/07/owl#Class>	EC	EGG(CHICKEN)				UBERON_0007379
+<https://www.napralert.org/data/animal/23>	23	<http://www.w3.org/2002/07/owl#Class>	PP	CAT(PREGNANT)				UBERON_0009097|NCBITaxon_9685
+<https://www.napralert.org/data/animal/251>	251	<http://www.w3.org/2002/07/owl#Class>	MO	MONKEY				NCBITaxon_314293
+<https://www.napralert.org/data/animal/260>	260	<http://www.w3.org/2002/07/owl#Class>	MY	MOOSE				NCBITaxon_9852
+<https://www.napralert.org/data/animal/32>	32	<http://www.w3.org/2002/07/owl#Class>	RC	RAT(CASTRATE)				PATO_0002367|NCBITaxon_10114
+<https://www.napralert.org/data/animal/74>	74	<http://www.w3.org/2002/07/owl#Class>	YA	SERIOLA QUINQUERADIATA				NCBITaxon_8161
+<https://www.napralert.org/data/animal/181>	181	<http://www.w3.org/2002/07/owl#Class>	GF	GOLDFISH				NCBITaxon_145527
+<https://www.napralert.org/data/animal/22>	22	<http://www.w3.org/2002/07/owl#Class>	PN	PRAWNS		This entry should be deprecated as the term is not precise enough taxonomically. (J.B.)		NCBITaxon_6683
+<https://www.napralert.org/data/animal/93>	93	<http://www.w3.org/2002/07/owl#Class>	AG	GALAGO SENEGALENSIS				NCBITaxon_9465
+<https://www.napralert.org/data/animal/187>	187	<http://www.w3.org/2002/07/owl#Class>	GR	GOPHEROUS BERLANDIERI				NCBITaxon_286003
+<https://www.napralert.org/data/animal/103>	103	<http://www.w3.org/2002/07/owl#Class>	B	BAT				NCBITaxon_9397
+<https://www.napralert.org/data/animal/201>	201	<http://www.w3.org/2002/07/owl#Class>	HP	HUMAN(PREGNANT)				UBERON_0009097|NCBITaxon_9606
+<https://www.napralert.org/data/animal/117>	117	<http://www.w3.org/2002/07/owl#Class>	BV	BEAVER				NCBITaxon_10184
+<https://www.napralert.org/data/animal/154>	154	<http://www.w3.org/2002/07/owl#Class>	DF	EEL				NCBITaxon_7933
+<https://www.napralert.org/data/animal/92>	92	<http://www.w3.org/2002/07/owl#Class>	AF	NYCTICEBUS COUCANG				NCBITaxon_9470
+<https://www.napralert.org/data/animal/259>	259	<http://www.w3.org/2002/07/owl#Class>	MX	MASTOMYS NATALENSIS				NCBITaxon_10112
+<https://www.napralert.org/data/animal/110>	110	<http://www.w3.org/2002/07/owl#Class>	BG	BLATTELLA GERMANICA				NCBITaxon_6973
+<https://www.napralert.org/data/animal/210>	210	<http://www.w3.org/2002/07/owl#Class>	IF	MOUSE(INFANT)				PATO_0000309|NCBITaxon_10088
+<https://www.napralert.org/data/animal/121>	121	<http://www.w3.org/2002/07/owl#Class>	C4	COCKROACH	<https://www.napralert.org/data/animal/81>			NCBITaxon_85823
+<https://www.napralert.org/data/animal/37>	37	<http://www.w3.org/2002/07/owl#Class>	RH	RAT(HYPOPHYSECTOMIZED)				NCBITaxon_10114
+<https://www.napralert.org/data/animal/233>	233	<http://www.w3.org/2002/07/owl#Class>	M5	EUPOMACENTRUS LEUCOSTICTUS				NCBITaxon_258452
+<https://www.napralert.org/data/animal/143>	143	<http://www.w3.org/2002/07/owl#Class>	CR	CRAB				NCBITaxon_6752
+<https://www.napralert.org/data/animal/34>	34	<http://www.w3.org/2002/07/owl#Class>	RE	PONY(SHETLAND)				NCBITaxon_1114792
+<https://www.napralert.org/data/animal/13>	13	<http://www.w3.org/2002/07/owl#Class>	PD	PIG(CASTRATE)				NCBITaxon_9822|PATO_0002367
+<https://www.napralert.org/data/animal/116>	116	<http://www.w3.org/2002/07/owl#Class>	BU	BUFFALO				NCBITaxon_9901
+<https://www.napralert.org/data/animal/48>	48	<http://www.w3.org/2002/07/owl#Class>	SC	SPODOPTERA LITTORALIS				NCBITaxon_7109
+<https://www.napralert.org/data/animal/50>	50	<http://www.w3.org/2002/07/owl#Class>	SF	SACCOBRANCHUS FOSSILIS				NCBITaxon_93621
+<https://www.napralert.org/data/animal/76>	76	<http://www.w3.org/2002/07/owl#Class>	ZB	ZEBRA FINCH				NCBITaxon_59729
+<https://www.napralert.org/data/animal/84>	84	<http://www.w3.org/2002/07/owl#Class>	A7	BRACHIONUS PLICATILIS				NCBITaxon_10195
+<https://www.napralert.org/data/animal/18>	18	<http://www.w3.org/2002/07/owl#Class>	PJ	PARTRIDGE				NCBITaxon_466544
+<https://www.napralert.org/data/animal/65>	65	<http://www.w3.org/2002/07/owl#Class>	TK	TURKEY				NCBITaxon_9102
+<https://www.napralert.org/data/animal/100>	100	<http://www.w3.org/2002/07/owl#Class>	AR	SALVELINUS ALPINUS				NCBITaxon_8036
+<https://www.napralert.org/data/animal/179>	179	<http://www.w3.org/2002/07/owl#Class>	GD	GOOSE				NCBITaxon_8830
+<https://www.napralert.org/data/animal/123>	123	<http://www.w3.org/2002/07/owl#Class>	C6	GRASSHOPPER				NCBITaxon_7001
+<https://www.napralert.org/data/animal/132>	132	<http://www.w3.org/2002/07/owl#Class>	CF	CATFISH				NCBITaxon_7995
+<https://www.napralert.org/data/animal/68>	68	<http://www.w3.org/2002/07/owl#Class>	TU	TURTLE		There is confusion between turtle and tortoise, needs to be resolved		NCBITaxon_8459
+<https://www.napralert.org/data/animal/124>	124	<http://www.w3.org/2002/07/owl#Class>	C7	STICK INSECT				NCBITaxon_7020
+<https://www.napralert.org/data/animal/150>	150	<http://www.w3.org/2002/07/owl#Class>	D	DOG				NCBITaxon_9615
+<https://www.napralert.org/data/animal/248>	248	<http://www.w3.org/2002/07/owl#Class>	ML	MONKEY(SQUIRREL)				NCBITaxon_9520
+<https://www.napralert.org/data/animal/97>	97	<http://www.w3.org/2002/07/owl#Class>	AM	ASCIA MONUSTE PHILETA				NCBITaxon_320286
+<https://www.napralert.org/data/animal/113>	113	<http://www.w3.org/2002/07/owl#Class>	BP	BABOON(PREGNANT)				UBERON_0009097|NCBITaxon_9554
+<https://www.napralert.org/data/animal/105>	105	<http://www.w3.org/2002/07/owl#Class>	BA	BAT(RHINOPOMA KINNEARI)	<https://www.napralert.org/data/animal/38>			NCBITaxon_471460
+<https://www.napralert.org/data/animal/231>	231	<http://www.w3.org/2002/07/owl#Class>	M3	PORPOISE				NCBITaxon_9740
+<https://www.napralert.org/data/animal/15>	15	<http://www.w3.org/2002/07/owl#Class>	PF	POECILOCERA PICTA		Should be renamed Poekilocerus pictus (J.B.)		NCBITaxon_648918
+<https://www.napralert.org/data/animal/177>	177	<http://www.w3.org/2002/07/owl#Class>	GB	GARFISH				NCBITaxon_129037
+<https://www.napralert.org/data/animal/122>	122	<http://www.w3.org/2002/07/owl#Class>	C5	CORN EARWORM				NCBITaxon_7113
+<https://www.napralert.org/data/animal/159>	159	<http://www.w3.org/2002/07/owl#Class>	DP	DOG(PREGNANT)				NCBITaxon_9615|UBERON_0009097
+<https://www.napralert.org/data/animal/24>	24	<http://www.w3.org/2002/07/owl#Class>	PR	RAT(PREGNANT)				UBERON_0009097
+<https://www.napralert.org/data/animal/83>	83	<http://www.w3.org/2002/07/owl#Class>	A6	PARAHYALE HAWAIENSIS		Should be renamed Parhyale hawaiensis (J.B.)		NCBITaxon_317513
+<https://www.napralert.org/data/animal/241>	241	<http://www.w3.org/2002/07/owl#Class>	MD	MACACA FASCICULARIS				NCBITaxon_9541
+<https://www.napralert.org/data/animal/3>	3	<http://www.w3.org/2002/07/owl#Class>	GU	GUPPY				NCBITaxon_8081
+<https://www.napralert.org/data/animal/172>	172	<http://www.w3.org/2002/07/owl#Class>	FH	FUND.HETEROCL.		Rename to Fundulus heteroclitus (J.B.)		NCBITaxon_8078
+<https://www.napralert.org/data/animal/46>	46	<http://www.w3.org/2002/07/owl#Class>	RW	RAT(HAIRLESS)				NCBITaxon_10114
+<https://www.napralert.org/data/animal/237>	237	<http://www.w3.org/2002/07/owl#Class>	M9	XENOPUS LAEVIS EGGS(UNFERTILIZED)				UBERON_3010636
+<https://www.napralert.org/data/animal/79>	79	<http://www.w3.org/2002/07/owl#Class>	A2	ACERINA CERNUA				NCBITaxon_57865
+<https://www.napralert.org/data/animal/195>	195	<http://www.w3.org/2002/07/owl#Class>	HF	FETUS(HUMAN)				UBERON_0000323|NCBITaxon_9606
+<https://www.napralert.org/data/animal/180>	180	<http://www.w3.org/2002/07/owl#Class>	GE	GERBIL				NCBITaxon_10045
+<https://www.napralert.org/data/animal/108>	108	<http://www.w3.org/2002/07/owl#Class>	BD	DOG(BEAGLE)				NCBITaxon_9615
+<https://www.napralert.org/data/animal/59>	59	<http://www.w3.org/2002/07/owl#Class>	ST	STEER				PATO_0000384|PATO_0002367|NCBITaxon_9913
+<https://www.napralert.org/data/animal/192>	192	<http://www.w3.org/2002/07/owl#Class>	HB	HYRIOPSIS CUMINGII				NCBITaxon_165450
+<https://www.napralert.org/data/animal/238>	238	<http://www.w3.org/2002/07/owl#Class>	MA	MARE				NCBITaxon_1114792|PATO_0000383|UBERON_0007023
+<https://www.napralert.org/data/animal/58>	58	<http://www.w3.org/2002/07/owl#Class>	SS	SALMO SALAR				NCBITaxon_8030
+<https://www.napralert.org/data/animal/215>	215	<http://www.w3.org/2002/07/owl#Class>	KA	KANGAROO				NCBITaxon_9312
+<https://www.napralert.org/data/animal/211>	211	<http://www.w3.org/2002/07/owl#Class>	IN	INSECT				NCBITaxon_50557
+<https://www.napralert.org/data/animal/35>	35	<http://www.w3.org/2002/07/owl#Class>	RF	RAT FETUS				NCBITaxon_10114
+<https://www.napralert.org/data/animal/222>	222	<http://www.w3.org/2002/07/owl#Class>	LD	MOSQUITO				NCBITaxon_7157
+<https://www.napralert.org/data/animal/244>	244	<http://www.w3.org/2002/07/owl#Class>	MG	MACACA RADIATA				NCBITaxon_9548
+<https://www.napralert.org/data/animal/261>	261	<http://www.w3.org/2002/07/owl#Class>	MZ	MUSSEL(FRESHWATER)				NCBITaxon_47520
+<https://www.napralert.org/data/animal/219>	219	<http://www.w3.org/2002/07/owl#Class>	LA	LEPUS AMERICANUS				NCBITaxon_48086
+<https://www.napralert.org/data/animal/39>	39	<http://www.w3.org/2002/07/owl#Class>	RL	RAT WBC				NCBITaxon_10114
+<https://www.napralert.org/data/animal/250>	250	<http://www.w3.org/2002/07/owl#Class>	MN	MARMOSET				NCBITaxon_9481
+<https://www.napralert.org/data/animal/240>	240	<http://www.w3.org/2002/07/owl#Class>	MC	MOUSE(CASTRATE)				PATO_0002367|NCBITaxon_10088
+<https://www.napralert.org/data/animal/73>	73	<http://www.w3.org/2002/07/owl#Class>	WC	WOODCHUCK				NCBITaxon_9995
+<https://www.napralert.org/data/animal/258>	258	<http://www.w3.org/2002/07/owl#Class>	MW	MOLE				NCBITaxon_9373
+<https://www.napralert.org/data/animal/164>	164	<http://www.w3.org/2002/07/owl#Class>	EE	EGG(EMBRYONATED CHICKEN)				UBERON_0007379
+<https://www.napralert.org/data/animal/96>	96	<http://www.w3.org/2002/07/owl#Class>	AK	ACIPENSER BAERI				NCBITaxon_27689
+<https://www.napralert.org/data/animal/90>	90	<http://www.w3.org/2002/07/owl#Class>	AD	ARBACIA PUNCTULATA				NCBITaxon_7641
+<https://www.napralert.org/data/animal/253>	253	<http://www.w3.org/2002/07/owl#Class>	MQ	MUSCA DOMESTICA				NCBITaxon_7370
+<https://www.napralert.org/data/animal/142>	142	<http://www.w3.org/2002/07/owl#Class>	CQ	QUAIL(CALIFORNIA)				NCBITaxon_67771
+<https://www.napralert.org/data/animal/242>	242	<http://www.w3.org/2002/07/owl#Class>	ME	MONKEY(OVARIECTOMIZED)				NCBITaxon_314293
+<https://www.napralert.org/data/animal/151>	151	<http://www.w3.org/2002/07/owl#Class>	DC	DOG(CASTRATED)				NCBITaxon_9615|PATO_0002367
+<https://www.napralert.org/data/animal/149>	149	<http://www.w3.org/2002/07/owl#Class>	CY	CRICKET				NCBITaxon_6995
+<https://www.napralert.org/data/animal/60>	60	<http://www.w3.org/2002/07/owl#Class>	SU	SEA URCHIN				NCBITaxon_7625
+<https://www.napralert.org/data/animal/220>	220	<http://www.w3.org/2002/07/owl#Class>	LB	LAMB				NCBITaxon_9940|UBERON_0007021
+<https://www.napralert.org/data/animal/263>	263	<http://www.w3.org/2002/07/owl#Class>	NB	RAT(NEWBORN)				NCBITaxon_10114
+<https://www.napralert.org/data/animal/157>	157	<http://www.w3.org/2002/07/owl#Class>	DK	DUCKLING				NCBITaxon_8830|PATO_0000309
+<https://www.napralert.org/data/animal/9>	9	<http://www.w3.org/2002/07/owl#Class>	P	PIG				NCBITaxon_9822
+<https://www.napralert.org/data/animal/78>	78	<http://www.w3.org/2002/07/owl#Class>	JM	ORYZIAS LATIPES				NCBITaxon_8090
+<https://www.napralert.org/data/animal/62>	62	<http://www.w3.org/2002/07/owl#Class>	TB	TRIBOLIUM CONFUSUM				NCBITaxon_7071
+<https://www.napralert.org/data/animal/186>	186	<http://www.w3.org/2002/07/owl#Class>	GQ	GERBIL(PREGNANT)				NCBITaxon_10045|UBERON_0009097
+<https://www.napralert.org/data/animal/130>	130	<http://www.w3.org/2002/07/owl#Class>	CD	CAYMAN		Should be renamed Caiman (J.B.)		NCBITaxon_1294637
+<https://www.napralert.org/data/animal/66>	66	<http://www.w3.org/2002/07/owl#Class>	TL	TOXASCARIS LEONONI		Rename to Toxascaris leonina (J.B.)		NCBITaxon_59264
+<https://www.napralert.org/data/animal/268>	268	<http://www.w3.org/2002/07/owl#Class>	OC	OCTOPUS				NCBITaxon_6638
+<https://www.napralert.org/data/animal/197>	197	<http://www.w3.org/2002/07/owl#Class>	HH	HAMSTER(OVARIECTOMIZED)				NCBITaxon_10026
+<https://www.napralert.org/data/animal/148>	148	<http://www.w3.org/2002/07/owl#Class>	CX	CALLOSOBRUCHUS MACULATUS				NCBITaxon_64391
+<https://www.napralert.org/data/animal/234>	234	<http://www.w3.org/2002/07/owl#Class>	M6	LANGUR				NCBITaxon_9569
+<https://www.napralert.org/data/animal/56>	56	<http://www.w3.org/2002/07/owl#Class>	SQ	QUAIL(SEA)				NCBITaxon_9090
+<https://www.napralert.org/data/animal/156>	156	<http://www.w3.org/2002/07/owl#Class>	DH	TORTOISE		Not precise enough (J.B.)		NCBITaxon_8487
+<https://www.napralert.org/data/animal/131>	131	<http://www.w3.org/2002/07/owl#Class>	CE	CHICK EMBRYO				UBERON_0000922|NCBITaxon_9031
+<https://www.napralert.org/data/animal/6>	6	<http://www.w3.org/2002/07/owl#Class>	SA	HAMSTER(SYRIAN)				NCBITaxon_10036
+<https://www.napralert.org/data/animal/252>	252	<http://www.w3.org/2002/07/owl#Class>	MP	MONKEY(RHESUS),PREGNANT				NCBITaxon_9544|UBERON_0009097
+<https://www.napralert.org/data/animal/264>	264	<http://www.w3.org/2002/07/owl#Class>	NM	MOUSE(NUDE)				NCBITaxon_10088
+<https://www.napralert.org/data/animal/158>	158	<http://www.w3.org/2002/07/owl#Class>	DL	DUCK				NCBITaxon_8830
+<https://www.napralert.org/data/animal/55>	55	<http://www.w3.org/2002/07/owl#Class>	SP	EWE(PREGNANT)				NCBITaxon_9940|UBERON_0009097|PATO_0000383
+<https://www.napralert.org/data/animal/188>	188	<http://www.w3.org/2002/07/owl#Class>	GS	GOSLING				NCBITaxon_286003|PATO_0000309
+<https://www.napralert.org/data/animal/144>	144	<http://www.w3.org/2002/07/owl#Class>	CS	CRAYFISH				NCBITaxon_6724|NCBITaxon_29961
+<https://www.napralert.org/data/animal/120>	120	<http://www.w3.org/2002/07/owl#Class>	C3	CASSOWARY				NCBITaxon_8786
+<https://www.napralert.org/data/animal/175>	175	<http://www.w3.org/2002/07/owl#Class>	FT	TROUT		Not precise enough. (J.B.)		NCBITaxon_504568
+<https://www.napralert.org/data/animal/184>	184	<http://www.w3.org/2002/07/owl#Class>	GO	GERBIL(OVARIECTOMIZED)				NCBITaxon_10045|PATO_0002380
+<https://www.napralert.org/data/animal/36>	36	<http://www.w3.org/2002/07/owl#Class>	RG	RAT(PUBERTAL)				NCBITaxon_10114
+<https://www.napralert.org/data/animal/17>	17	<http://www.w3.org/2002/07/owl#Class>	PI	PISASTER GIGANTEUS(SEA STAR)				NCBITaxon_189915
+<https://www.napralert.org/data/animal/44>	44	<http://www.w3.org/2002/07/owl#Class>	RR	RABBIT(OVARIECTOMIZED)				PATO_0002380|NCBITaxon_9979
+<https://www.napralert.org/data/animal/218>	218	<http://www.w3.org/2002/07/owl#Class>	L	LOBSTER				NCBITaxon_6704
+<https://www.napralert.org/data/animal/235>	235	<http://www.w3.org/2002/07/owl#Class>	M7	LANGUR(PREGNANT)				UBERON_0009097|NCBITaxon_9569
+<https://www.napralert.org/data/animal/208>	208	<http://www.w3.org/2002/07/owl#Class>	HY	HYENA				NCBITaxon_9676
+<https://www.napralert.org/data/animal/126>	126	<http://www.w3.org/2002/07/owl#Class>	C9	CAMEL		Ambiguous (J.B.)		NCBITaxon_9836
+<https://www.napralert.org/data/animal/8>	8	<http://www.w3.org/2002/07/owl#Class>	OX	OX				PATO_0000384|PATO_0002367|NCBITaxon_9913|UBERON_0007023
+<https://www.napralert.org/data/animal/247>	247	<http://www.w3.org/2002/07/owl#Class>	MK	MICROTUS PINETORUM				NCBITaxon_111839
+<https://www.napralert.org/data/animal/28>	28	<http://www.w3.org/2002/07/owl#Class>	PV	GOAT(PREGNANT)				UBERON_0009097|NCBITaxon_9923
+<https://www.napralert.org/data/animal/2>	2	<http://www.w3.org/2002/07/owl#Class>	CZ	CHICK				PATO_0000309|NCBITaxon_9031
+<https://www.napralert.org/data/animal/51>	51	<http://www.w3.org/2002/07/owl#Class>	SG	GUINEA PIG(SPAYED)				NCBITaxon_10141|PATO_0002380
+<https://www.napralert.org/data/animal/203>	203	<http://www.w3.org/2002/07/owl#Class>	HT	POULTRY				NCBITaxon_8976
+<https://www.napralert.org/data/animal/214>	214	<http://www.w3.org/2002/07/owl#Class>	JR	JIRD(MERIONES UNGUICULATUS)				NCBITaxon_10047
+<https://www.napralert.org/data/animal/185>	185	<http://www.w3.org/2002/07/owl#Class>	GP	GUINEA PIG				NCBITaxon_10141
+<https://www.napralert.org/data/animal/29>	29	<http://www.w3.org/2002/07/owl#Class>	R	RAT				NCBITaxon_10114
+<https://www.napralert.org/data/animal/204>	204	<http://www.w3.org/2002/07/owl#Class>	HU	HUMAN ADULT				UBERON_0007023|NCBITaxon_9606
+<https://www.napralert.org/data/animal/227>	227	<http://www.w3.org/2002/07/owl#Class>	LT	LEPUS TIMIDUS				NCBITaxon_62621
+<https://www.napralert.org/data/animal/41>	41	<http://www.w3.org/2002/07/owl#Class>	RN	RAM				NCBITaxon_9940
+<https://www.napralert.org/data/animal/161>	161	<http://www.w3.org/2002/07/owl#Class>	DU	EGG(DUCK)				UBERON_0007379
+<https://www.napralert.org/data/animal/54>	54	<http://www.w3.org/2002/07/owl#Class>	SN	SNAIL				NCBITaxon_6448
+<https://www.napralert.org/data/animal/205>	205	<http://www.w3.org/2002/07/owl#Class>	HV	RAT(F344)				NCBITaxon_10114
+<https://www.napralert.org/data/animal/111>	111	<http://www.w3.org/2002/07/owl#Class>	BH	BUDGERIGAR				NCBITaxon_13146
+<https://www.napralert.org/data/animal/146>	146	<http://www.w3.org/2002/07/owl#Class>	CU	CORYNE UCHIDAI				NCBITaxon_662077
+<https://www.napralert.org/data/animal/11>	11	<http://www.w3.org/2002/07/owl#Class>	PB	PERIPLANETA AMERICANA				NCBITaxon_6978
+<https://www.napralert.org/data/animal/30>	30	<http://www.w3.org/2002/07/owl#Class>	RA	RABBIT				NCBITaxon_9979
+<https://www.napralert.org/data/animal/141>	141	<http://www.w3.org/2002/07/owl#Class>	CP	COW(PREGNANT)				UBERON_0009097|NCBITaxon_9913|PATO_0000383
+<https://www.napralert.org/data/animal/5>	5	<http://www.w3.org/2002/07/owl#Class>	OM	MOUSE(OVARIECTOMIZED)				NCBITaxon_10088|PATO_0002380
+<https://www.napralert.org/data/animal/236>	236	<http://www.w3.org/2002/07/owl#Class>	M8	MACACA ARCTOIDES				NCBITaxon_9540
+<https://www.napralert.org/data/animal/67>	67	<http://www.w3.org/2002/07/owl#Class>	TM	TOAD		Not precise enough (J.B.)		NCBITaxon_8342
+<https://www.napralert.org/data/animal/102>	102	<http://www.w3.org/2002/07/owl#Class>	AT	ATRIPLEX HALIMUS				NCBITaxon_240028
+<https://www.napralert.org/data/animal/88>	88	<http://www.w3.org/2002/07/owl#Class>	AB	AEDES AEGYPTI				NCBITaxon_7159
+<https://www.napralert.org/data/animal/166>	166	<http://www.w3.org/2002/07/owl#Class>	EL	ELK				NCBITaxon_1574408
+<https://www.napralert.org/data/animal/217>	217	<http://www.w3.org/2002/07/owl#Class>	KT	SPARROW				NCBITaxon_9158
+<https://www.napralert.org/data/animal/33>	33	<http://www.w3.org/2002/07/owl#Class>	RD	RODENT				NCBITaxon_9989
+<https://www.napralert.org/data/animal/174>	174	<http://www.w3.org/2002/07/owl#Class>	FR	FROG				NCBITaxon_8342
+<https://www.napralert.org/data/animal/94>	94	<http://www.w3.org/2002/07/owl#Class>	AH	CALLITHRIX JACCHUS JACCHUS				NCBITaxon_9483
+<https://www.napralert.org/data/animal/194>	194	<http://www.w3.org/2002/07/owl#Class>	HE	HAMSTER(PREGNANT)				UBERON_0009097|NCBITaxon_10026
+<https://www.napralert.org/data/animal/216>	216	<http://www.w3.org/2002/07/owl#Class>	KB	KOALA				NCBITaxon_38626
+<https://www.napralert.org/data/animal/209>	209	<http://www.w3.org/2002/07/owl#Class>	HZ	PSAMMOMYS OBESUS	<https://www.napralert.org/data/animal/57>			NCBITaxon_48139
+<https://www.napralert.org/data/animal/167>	167	<http://www.w3.org/2002/07/owl#Class>	EP	MASTOMYS COUCHA				NCBITaxon_35658
+<https://www.napralert.org/data/animal/183>	183	<http://www.w3.org/2002/07/owl#Class>	GH	GAMBUSIA HOLBROOKI				NCBITaxon_37273
+<https://www.napralert.org/data/animal/19>	19	<http://www.w3.org/2002/07/owl#Class>	PK	MONKEY(PREGNANT)				UBERON_0009097|NCBITaxon_314293
+<https://www.napralert.org/data/animal/171>	171	<http://www.w3.org/2002/07/owl#Class>	FF	DROSOPHILA				NCBITaxon_7215
+<https://www.napralert.org/data/animal/86>	86	<http://www.w3.org/2002/07/owl#Class>	A9	MONKEY(PRESBYTIS)				NCBITaxon_9573
+<https://www.napralert.org/data/animal/104>	104	<http://www.w3.org/2002/07/owl#Class>	B1	ARMIGERES SUBALBATUS				NCBITaxon_124917
+<https://www.napralert.org/data/animal/169>	169	<http://www.w3.org/2002/07/owl#Class>	EW	EARTHWORM				NCBITaxon_6391|NCBITaxon_684783
+<https://www.napralert.org/data/animal/85>	85	<http://www.w3.org/2002/07/owl#Class>	A8	MOUSE(NZB-NZW)				NCBITaxon_10088
+<https://www.napralert.org/data/animal/223>	223	<http://www.w3.org/2002/07/owl#Class>	LE	LEMMING				NCBITaxon_79948
+<https://www.napralert.org/data/animal/202>	202	<http://www.w3.org/2002/07/owl#Class>	HR	HEIFER				NCBITaxon_9913|PATO_0000309|PATO_0000383
+<https://www.napralert.org/data/animal/52>	52	<http://www.w3.org/2002/07/owl#Class>	SH	EWE				NCBITaxon_9940|PATO_0000383
+<https://www.napralert.org/data/animal/118>	118	<http://www.w3.org/2002/07/owl#Class>	C	CAT				NCBITaxon_9685
+<https://www.napralert.org/data/animal/87>	87	<http://www.w3.org/2002/07/owl#Class>	AA	TISBE FURCATA JOHNSONII				NCBITaxon_291243
+<https://www.napralert.org/data/animal/91>	91	<http://www.w3.org/2002/07/owl#Class>	AE	TUPAIA GLIS				NCBITaxon_9395
+<https://www.napralert.org/data/animal/133>	133	<http://www.w3.org/2002/07/owl#Class>	CG	CHIMPANZEE				NCBITaxon_9598
+<https://www.napralert.org/data/animal/61>	61	<http://www.w3.org/2002/07/owl#Class>	TA	TAENIA PISIFORMIS				NCBITaxon_85432
+<https://www.napralert.org/data/animal/1>	1	<http://www.w3.org/2002/07/owl#Class>	BF	BULLFROG		Not precise enough, had to put the order only, will have to check publications more precisely (J.B.)		NCBITaxon_8342
+<https://www.napralert.org/data/animal/47>	47	<http://www.w3.org/2002/07/owl#Class>	SB	SHEEP				NCBITaxon_9940
+<https://www.napralert.org/data/animal/82>	82	<http://www.w3.org/2002/07/owl#Class>	A5	CARP				NCBITaxon_7953
+<https://www.napralert.org/data/animal/206>	206	<http://www.w3.org/2002/07/owl#Class>	HW	RAT(NBR)				NCBITaxon_10114
+<https://www.napralert.org/data/animal/115>	115	<http://www.w3.org/2002/07/owl#Class>	BT	BULL				PATO_0002366|NCBITaxon_9913
+<https://www.napralert.org/data/animal/125>	125	<http://www.w3.org/2002/07/owl#Class>	C8	COCKATIEL				NCBITaxon_13180
+<https://www.napralert.org/data/animal/246>	246	<http://www.w3.org/2002/07/owl#Class>	MJ	MOUSE(PRE-PUBERTAL)				PATO_0000309|NCBITaxon_10088
+<https://www.napralert.org/data/animal/70>	70	<http://www.w3.org/2002/07/owl#Class>	TW	LYTECHINUS PICTUS				NCBITaxon_7653
+<https://www.napralert.org/data/animal/207>	207	<http://www.w3.org/2002/07/owl#Class>	HX	HYRAX				NCBITaxon_9810
+<https://www.napralert.org/data/animal/80>	80	<http://www.w3.org/2002/07/owl#Class>	A3	PERCH				NCBITaxon_8166
+<https://www.napralert.org/data/animal/191>	191	<http://www.w3.org/2002/07/owl#Class>	HA	HAMSTER				NCBITaxon_10026
+<https://www.napralert.org/data/animal/193>	193	<http://www.w3.org/2002/07/owl#Class>	HC	HUMAN CHILD				UBERON_0007021|NCBITaxon_9606
+<https://www.napralert.org/data/animal/4>	4	<http://www.w3.org/2002/07/owl#Class>	M	MOUSE				NCBITaxon_10088
+<https://www.napralert.org/data/animal/128>	128	<http://www.w3.org/2002/07/owl#Class>	CB	CODFISH				NCBITaxon_8048
+<https://www.napralert.org/data/animal/40>	40	<http://www.w3.org/2002/07/owl#Class>	RM	RAM(CASTRATE)				NCBITaxon_9940|PATO_0002367
+<https://www.napralert.org/data/animal/25>	25	<http://www.w3.org/2002/07/owl#Class>	PS	LIVESTOCK(PREGNANT)				UBERON_0009097
+<https://www.napralert.org/data/animal/269>	269	<http://www.w3.org/2002/07/owl#Class>	OE	EWE(OVARIECTOMIZED)				NCBITaxon_9940|PATO_0000383|PATO_0002380
+<https://www.napralert.org/data/animal/45>	45	<http://www.w3.org/2002/07/owl#Class>	RT	RAINBOW TROUT				NCBITaxon_8022
+<https://www.napralert.org/data/animal/221>	221	<http://www.w3.org/2002/07/owl#Class>	LC	LOCUST				NCBITaxon_7002
+<https://www.napralert.org/data/animal/256>	256	<http://www.w3.org/2002/07/owl#Class>	MU	SUNCUS MURINUS				NCBITaxon_9378
+<https://www.napralert.org/data/animal/257>	257	<http://www.w3.org/2002/07/owl#Class>	MV	VOLE				NCBITaxon_39087
+<https://www.napralert.org/data/animal/134>	134	<http://www.w3.org/2002/07/owl#Class>	CH	CHICKEN				NCBITaxon_9031
+<https://www.napralert.org/data/animal/198>	198	<http://www.w3.org/2002/07/owl#Class>	HJ	HYDRA JAPONICA				NCBITaxon_795126
+<https://www.napralert.org/data/animal/230>	230	<http://www.w3.org/2002/07/owl#Class>	M2	MEMBRANIPORA MEMBRANACEA				NCBITaxon_95170
+<https://www.napralert.org/data/animal/190>	190	<http://www.w3.org/2002/07/owl#Class>	GW	GUINEA PIG(PREGNANT)				NCBITaxon_10141|UBERON_0009097
+<https://www.napralert.org/data/animal/89>	89	<http://www.w3.org/2002/07/owl#Class>	AC	RAT(IMMATURE)				UBERON_0007021|NCBITaxon_10114
+<https://www.napralert.org/data/animal/245>	245	<http://www.w3.org/2002/07/owl#Class>	MH	MUSCA AUTUMNALIS				NCBITaxon_221902
+<https://www.napralert.org/data/animal/160>	160	<http://www.w3.org/2002/07/owl#Class>	DT	DEER(PREGNANT)				UBERON_0009097|NCBITaxon_9850

@@ -1,0 +1,9 @@
+ID	Label	Type	subclass_of	equivalent_to	editor	creation_date	update_date
+ID	A rdfs:label	TYPE	SC %	SC realizes some %			
+PHO:0000247	extract effect evidence	class	'effect evidence'		0000-0003-1640-9989	2020-10-21	2020-10-21
+PHO:0000248	compound effect evidence	class	'effect evidence'		0000-0003-1640-9989	2020-10-21	2020-10-21
+PHO:0000249	effect evidence	class	'experimental evidence'		0000-0003-1640-9989	2020-11-09	2020-11-09
+PHO:0000256	compound presence evidence	class	'presence evidence'		0000-0003-1640-9989	2020-12-02	2020-12-02
+PHO:0000267	presence evidence	class	'experimental evidence'		0000-0003-1640-9989	2021-04-30	2021-04-30
+PHO:0000268	presence of compound evidence	class	'presence evidence'		0000-0003-1640-9989	2021-04-30	2021-04-30
+PHO:0000269	absence of compound evidence	class	'presence evidence'		0000-0003-1640-9989	2021-04-30	2021-04-30

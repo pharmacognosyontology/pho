@@ -1,0 +1,9 @@
+OBI:0600007 # administering substance in vivo
+OBI:0000319 # material to be added role
+OBI:0000426 # injection
+OBI:0000994 # intravenous injection
+OBI:0000952 # oral administration
+OBI:0000954 # subcutaneous injection
+OBI:0000983 # intranasal mucosal administration
+OBI:0600014 # material component separation
+OBI:0000011 # planned process

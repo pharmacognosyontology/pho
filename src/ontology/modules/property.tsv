@@ -1,0 +1,16 @@
+"ID"	"Label"	"Type"	"super property"	"domain"	"range"	"definition  "	"editor"	"creation_date"	"update_date"
+"ID"	"A rdfs:label"	"TYPE"	"SP %"	"DOMAIN"	"RANGE"	"A IAO:00000115"			
+"PHO:0003000"	"has qualitative result"	"owl:ObjectProperty"				"A relation between an experiment and a result"	"0000-0003-1640-9989"	"2020-11-09"	2021-04-30
+"PHO:0003001"	"has reference"	"owl:ObjectProperty"				"Deprecated used for NAPRALERT annotations"	"0000-0003-1640-9989"	"2020-11-09"	2021-04-30
+"PHO:0003002"	"has activity"	"owl:ObjectProperty"				"Deprecated used for NAPRALERT annotations"	"0000-0003-1640-9989"	"2020-11-09"	2021-04-30
+"PHO:0003003"	"has organism"	"owl:ObjectProperty"				"Deprecated used for NAPRALERT annotations"	"0000-0003-1640-9989"	"2020-11-09"	2021-04-30
+"PHO:0003004"	"has source organism"	"owl:ObjectProperty"	"has compound"			"A relation between a compound or substance and its producing organism"	"0000-0003-1640-9989"	"2020-12-02"	2021-04-30
+"PHO:0003005"	"has compound"	"owl:ObjectProperty"				"A relation between a substance and a compound"	"0000-0003-1640-9989"	"2020-12-02"	2021-04-30
+"PHO:0003006"	"has identified compound"	"owl:ObjectProperty"	"has compound"			"A relation between a substance and a compound in which the compound has been identified"	"0000-0003-1640-9989"	"2020-12-02"	2021-04-30
+"PHO:0003007"	"is related to napralert worktype"	"owl:ObjectProperty"					"0000-0003-1640-9989"	2021-04-30	2021-04-30
+"PHO:0003008"	"is related to wikidata entry"	"owl:ObjectProperty"					"0000-0003-1640-9989"	2021-04-30	2021-04-30
+"PHO:0003009"	"is related to wikidata taxon"	"owl:ObjectProperty"	"is related to wikidata entry"				"0000-0003-1640-9989"	2021-04-30	2021-04-30
+"PHO:0003010"	"is related to wikidata molecule"	"owl:ObjectProperty"	"is related to wikidata entry"				"0000-0003-1640-9989"	2021-04-30	2021-04-30
+"PHO:0003011"	"is related to wikidata reference"	"owl:ObjectProperty"	"is related to wikidata entry"				"0000-0003-1640-9989"	2021-04-30	2021-04-30
+"PHO:0003012"	"has isolated compound"	"owl:ObjectProperty"	"has compound"			"A relation between a substance and a compound in which the compound has been isolated at least once"	"0000-0003-1640-9989"	2021-04-30	2021-04-30
+"PHO:0003013"	"has a lack of compound"	"owl:ObjectProperty"				"A relation between a substance and the absence  (or below the limit of detection) of a compound in it"	"0000-0003-1640-9989"	2021-04-30	2021-04-30
